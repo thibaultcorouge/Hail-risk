@@ -1,4 +1,5 @@
-Résumé
+Résumé:
+
 Ce projet propose un cadre de simulation visant à analyser l’impact financier d’événements de grêle sur un portefeuille d’assurance habitation (MRH).
 
 L’objectif est de relier explicitement la dynamique atmosphérique
