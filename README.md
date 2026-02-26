@@ -13,6 +13,7 @@ L’approche permet d’évaluer la distribution complète des pertes,
 au-delà des indicateurs moyens, et d’analyser la robustesse du portefeuille face aux événements extrêmes.
 
 1. Objectif
+
 L’objectif principal est d’étudier la transformation
 d’un événement météorologique localisé en perte assurantielle agrégée, et d’évaluer :
 - la sensibilité du portefeuille à la structure spatiale de l’aléa,
